@@ -17,6 +17,7 @@ I'm currently based in **Central Standard Time (CST)** 🕐. I **love building F
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="40" />
   <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" width="40" />
   <img src="https://skillicons.dev/icons?i=react" title="React" width="40" />
+ <img src="https://skillicons.dev/icons?i=redux" title="Redux" width="40" />
   <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" width="40" />
   <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" width="40" />
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" width="40" />
@@ -27,7 +28,7 @@ I'm currently based in **Central Standard Time (CST)** 🕐. I **love building F
 
 
 - Languages: `HTML`, `CSS`, `JavaScript`, `TypeScript`
-- Frameworks/Libraries: `React`, `Next.js`
+- Frameworks/Libraries: `React`, `Redux`, `Next.js`
 - UI Libraries: `shadcn/ui`, `Tailwind CSS`
 - Backend/ORM: `Node.js`, `Prisma`
 - Databases: `MongoDB`, `SQLite`
