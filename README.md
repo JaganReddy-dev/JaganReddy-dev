@@ -11,9 +11,20 @@ I'm currently based in **Central Standard Time (CST)** 🕐. I **love building F
 
 ### 🛠 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,prisma,mongodb,sqlite" alt="Tech Stack" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html" title="HTML" width="40" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS" width="40" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="40" />
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" width="40" />
+  <img src="https://skillicons.dev/icons?i=react" title="React" width="40" />
+  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" width="40" />
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" width="40" />
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" width="40" />
+  <img src="https://skillicons.dev/icons?i=prisma" title="Prisma" width="40" />
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" width="40" />
+  <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" width="40" />
 </p>
+
 
 - Languages: `HTML`, `CSS`, `JavaScript`, `TypeScript`
 - Frameworks/Libraries: `React`, `Next.js`
