@@ -5,10 +5,9 @@ I'm currently based in **Central Standard Time (CST)** 🕐. I **love building F
 
  
 
-- 🔭 Currently rebuilding the landing page for [Numero](https://www.numero.ai)
+- 🔭 Currently building a React Native Application using Expo.
 - 👯 Open to collaborating on frontend projects (React, Next.js)
-- 🌱 Learning more about design systems and animation in frontend
-
+- 🌱 Learning more about Design Systems, Data Structures & Algorithms
 ### 🛠 Tech Stack
 
 <p>
