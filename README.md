@@ -1,7 +1,7 @@
 ## Hi there👋, I am Jagan
 
 ### About Me
-I'm currently based in **Central Standard Time (CST)** 🕐. I **love building FullStack Applications** 🎨. My go-to stack is **React** ⚛️ & **Next.js** 🚀. I focus on writing **testable🧪, maintainable software** ✅. When I'm not building apps, you'll probably find me at the movies 🎬, Working out🏋️‍♂️, Spending quality time with family👨‍👩‍👧.
+I'm currently based in **Central Standard Time (CST)** 🕐. I **love building FullStack Applications**  My go-to stack is **React** ⚛️ & **Next.js** 🚀. I focus on writing **testable, maintainable software** ✅. When I'm not building apps, you'll probably find me at the movies, Working out, Spending quality time with family.
 
  
 
