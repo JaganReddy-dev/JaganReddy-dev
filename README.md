@@ -1,12 +1,12 @@
 ## Hi there👋, I am Jagan
 
 ### About Me
-I'm currently based in **Central Standard Time (CST)** 🕐. I **love building FullStack Applications** 🎨 — my go-to stack is **React** ⚛️ & **Next.js** 🚀. I focus on writing **testable, maintainable software** ✅🧪. When I'm not building apps, you'll probably find me at the movies 🎬, Working out🏋️‍♂️, Spending quality time with family👨‍👩‍👧.
+I'm currently based in **Central Standard Time (CST)** 🕐. I **love building FullStack Applications** 🎨. My go-to stack is **React** ⚛️ & **Next.js** 🚀. I focus on writing **testable, maintainable software** ✅🧪. When I'm not building apps, you'll probably find me at the movies 🎬, Working out🏋️‍♂️, Spending quality time with family👨‍👩‍👧.
 
  
 
-- 🔭 Currently building a React Native Application using Expo.
-- 👯 Open to collaborating on frontend projects (React, Next.js)
+- 🔭 Currently building a Real-Time Visitor Analytics Platform using Express and NodeJS.
+- 👯 Open to collaborating on fullstack projects (React,NodeJS, ExpressJS, NextJS)
 - 🌱 Learning more about Design Systems, Data Structures & Algorithms
 ### 🛠 Tech Stack
 
