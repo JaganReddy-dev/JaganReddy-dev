@@ -35,7 +35,7 @@ I focus on writing **testable, maintainable software** ✅. When I'm not buildin
   
 ### 📫 Reach Me at
 - [LinkedIn](https://www.linkedin.com/in/jagan368/)
-- [Visit My Website](https://www.jaganparigi.vercel.app)
+- [Visit My Website](jaganparigi.vercel.app)
 <!--
 **ParigiJ/parigij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
