@@ -7,8 +7,8 @@ I focus on writing **testable, maintainable software** ✅. When I'm not buildin
  
 
 - 🔭 Currently building a Real-Time Visitor Analytics Platform using Express and NodeJS.
-- 👯 Open to collaborating on fullstack projects (React,NodeJS, ExpressJS, NextJS)
-- 🌱 Learning more about Design Systems, Data Structures & Algorithms
+- 👯 Open to collaborating on fullstack, frontend, and backend projects (React,NodeJS, ExpressJS, NextJS, Python)
+- 🌱 Learning more about Design Systems, Data Structures & Algorithms and Python
 ### 🛠 Tech Stack
 
 <p>
@@ -24,6 +24,7 @@ I focus on writing **testable, maintainable software** ✅. When I'm not buildin
   <img src="https://skillicons.dev/icons?i=prisma" title="Prisma" width="40" />
   <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" width="40" />
   <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" width="40" />
+  <img src="https://skillicons.dev/icons?i=python" title="SQLite" width="40" />
 </p>
 
 
