@@ -27,8 +27,8 @@ I focus on writing **testable, maintainable software** ✅. When I'm not buildin
 </p>
 
 
-- Languages: `HTML`, `CSS`, `JavaScript`, `TypeScript`
-- Frameworks/Libraries: `React`, `Redux`, `Next.js`
+- Languages: `HTML`, `CSS`, `JavaScript`, `TypeScript`, `Python`
+- Frameworks/Libraries: `React`, `Redux`, `Next.js`, `FastAPI`
 - UI Libraries: `shadcn/ui`, `Tailwind CSS`
 - Backend/ORM: `Node.js`, `Prisma`
 - Databases: `MongoDB`, `SQLite`
